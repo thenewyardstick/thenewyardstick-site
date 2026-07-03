@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://thenewyardstick.co.uk/sitemap.xml

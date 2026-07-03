@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://thenewyardstick.co.uk/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://thenewyardstick.co.uk/</loc>
+</url>
+<url>
+<loc>https://thenewyardstick.co.uk/finding-the-magic-in-jazz-the-case-for-a-renault-based-honda-ev.html</loc>
+<lastmod>2026-07-03T18:27:49+01:00</lastmod>
+<image:image>
+<image:loc>https://thenewyardstick.co.uk/media/posts/1/Honda-Jazz-2028-Rendering-front-view.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://thenewyardstick.co.uk/media/posts/1/Honda-Jazz-MK1-next-to-2028-Honda-Jazz-rendering.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://thenewyardstick.co.uk/media/posts/1/Honda-AI-Fit-Vs-Freed.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://thenewyardstick.co.uk/media/posts/1/2028-Honda-Jazz-Rendering-Design-Sketch.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://thenewyardstick.co.uk/media/posts/1/Honda-Jazz-2028-Rendering-rear-shot.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
