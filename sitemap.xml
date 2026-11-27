@@ -250,7 +250,7 @@
 </url>
 <url>
 <loc>https://thenewyardstick.co.uk/alfa-romeo-guide.html</loc>
-<lastmod>2026-10-06T19:09:27+01:00</lastmod>
+<lastmod>2026-11-27T19:29:12+00:00</lastmod>
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/38/alfa-romeo-junior-2.webp</image:loc>
 <image:title><![CDATA[Alfa Romeo Junior]]></image:title>
@@ -434,10 +434,14 @@
 </url>
 <url>
 <loc>https://thenewyardstick.co.uk/audi-guide.html</loc>
-<lastmod>2026-10-06T19:08:02+01:00</lastmod>
+<lastmod>2026-11-27T19:27:59+00:00</lastmod>
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/39/Audi-A3.webp</image:loc>
 <image:title><![CDATA[Audi A3]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://thenewyardstick.co.uk/media/posts/39/audi-a2-2.jpg</image:loc>
+<image:title><![CDATA[Audi A2 e-tron]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/39/Audi-a5.jpg</image:loc>
@@ -802,7 +806,7 @@
 </url>
 <url>
 <loc>https://thenewyardstick.co.uk/bmw-guide.html</loc>
-<lastmod>2026-10-06T19:09:48+01:00</lastmod>
+<lastmod>2026-11-27T19:54:05+00:00</lastmod>
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/43/P90550872_lowRes_the-all-new-bmw-1-se.jpg</image:loc>
 <image:title><![CDATA[BMW 1 Series]]></image:title>
@@ -818,10 +822,6 @@
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/43/BMW-2-Series-Active-Tourer.webp</image:loc>
 <image:title><![CDATA[]]></image:title>
-</image:image>
-<image:image>
-<image:loc>https://thenewyardstick.co.uk/media/posts/43/P90549614_lowRes_the-new-bmw-330i-sed.jpg</image:loc>
-<image:title><![CDATA[BMW 3 Series]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/43/BMW-i3.jpg</image:loc>
@@ -2922,14 +2922,14 @@
 </url>
 <url>
 <loc>https://thenewyardstick.co.uk/leapmotor-guide.html</loc>
-<lastmod>2026-10-06T19:51:31+01:00</lastmod>
+<lastmod>2026-11-27T18:59:15+00:00</lastmod>
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/62/leapmotor-t03-2.jpg</image:loc>
 <image:title><![CDATA[Leapmotor T03]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://thenewyardstick.co.uk/media/posts/62/Leapmotor-B03X.webp</image:loc>
-<image:title><![CDATA[]]></image:title>
+<image:loc>https://thenewyardstick.co.uk/media/posts/62/Leapmotor_B03X-4.jpg</image:loc>
+<image:title><![CDATA[Leapmotor B03X]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://thenewyardstick.co.uk/media/posts/62/leapmotor-b05.jpg</image:loc>
